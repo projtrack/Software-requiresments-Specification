@@ -10,7 +10,7 @@
 
 ## 1. introduction
 #### Purpose:
-The goal of this project is to create a subscription base application that can be used by Cafe's and customers. The Application should working on Mobile (Android & IOS) With an Administration Dashboard that should be a Web Application.  The Application will use the Stripe API for the subscription intergration. We will also use QR codes for transactioning Coffee from the Customers phone
+The purpose of this document is to build project managment software with the ease of having all popular tools intrer
 #### Document Conventions
 This section will Explain and termanolgy that is used in this document
 #### Intended Audience
