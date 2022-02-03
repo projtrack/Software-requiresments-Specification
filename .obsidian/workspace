@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "5269c2ced23cfb85",
+        "id": "a8b544caee71d579",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Introduction/Document Conventions.md",
-            "mode": "source"
+            "file": "README.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction/Document Conventions.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,11 +86,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5269c2ced23cfb85",
+  "active": "a8b544caee71d579",
   "lastOpenFiles": [
+    "README.md",
+    "Introduction/Scope.md",
+    "Introduction/Intended Audience.md",
     "Introduction/Document Conventions.md",
     "Introduction/Introduction.md",
-    "Introduction/Scope.md",
     "Introduction/Document-Conventions.md",
     "Table of Contents.md",
     "Intro.md",
