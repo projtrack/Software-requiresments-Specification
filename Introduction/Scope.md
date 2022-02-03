@@ -1,0 +1,2 @@
+#### Scope
+This Software Design Description (SDD) document provides necessary information about the project Coffee inc. This document includes design principles of the software with its requirements, functionalities and necessary definitions. These information is aimed to guide any programmer to understand our design and be an assistant in the development phase.

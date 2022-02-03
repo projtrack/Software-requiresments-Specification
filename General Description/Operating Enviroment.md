@@ -1,0 +1,1 @@
+This project is a Web/Mobile application so it will need A server and client server for hosting the Client Website.

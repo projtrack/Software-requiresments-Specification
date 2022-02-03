@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pages.md",
+            "file": "Table of Contents.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages.md",
+                "file": "Table of Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "1c184b29ece036d8",
   "lastOpenFiles": [
+    "Table of Contents.md",
+    "Intro.md",
     "Pages.md"
   ]
 }

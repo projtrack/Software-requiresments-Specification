@@ -1,0 +1,2 @@
+#### Dependencies
+The application website Frontend will be written in React as it has lots of support and is quite a flexable frontend framework. The Mobile apps will be written in React native as we are using react for the frontend and should be able to use the Components we made in react in react native without to much hastle. The backend will be written in Golang as it is a highly scalable language and lastly the database we will use will be Postgress.

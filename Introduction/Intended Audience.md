@@ -1,0 +1,2 @@
+#### Intended Audience
+The main audience of this document includes the developers of this project Developers are supposed to use this document in the development phase to the structure and design of each component
