@@ -1,16 +1,16 @@
  ## (SRS) Document
  
  #### Project Name
- Projtrack - Project Management Dashboard
+ Projtrack - Project Management Pipeline Dashboard
  #### Date 
 04/02/2022
  #### Version 
  1
- 
 
 ## 1. introduction
 #### Purpose:
-The purpose of this document is to build project managment software with the ease of having all popular tools intrer
+The purpose of this document is to build project managment software with the ease of having all popular tools intrergrated into one centeral place.
+
 #### Document Conventions
 This section will Explain and termanolgy that is used in this document
 #### Intended Audience
