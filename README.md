@@ -9,14 +9,16 @@
 
 ## 1. introduction
 #### Purpose:
-The purpose of this document is to build project managment software with the ease of having all popular tools intrergrated into one centeral place.
+The purpose of this document is to build project managment software with the ease of having popular tools intrergrated into one centeral place. This Document is intended for Stake holders and Devlopers
 
 #### Document Conventions
 This section will Explain and termanolgy that is used in this document
+
 #### Intended Audience
 The main audience of this document includes the developers of this project Developers are supposed to use this document in the development phase to the structure and design of each component
+
 #### Scope
-This Software Design Description (SDD) document provides necessary information about the project Coffee inc. This document includes design principles of the software with its requirements, functionalities and necessary definitions. These information is aimed to guide any programmer to understand our design and be an assistant in the development phase.
+This Software Design Description (SDD) document provides necessary information about Projtrack - Project Pipeline dashboard . This document includes design principles of the software with its requirements, functionalities and necessary definitions. The information is aimed to guide any programmer to understand our design and be an assistant in the development phase.
 	
 ## 2. General Description
 
