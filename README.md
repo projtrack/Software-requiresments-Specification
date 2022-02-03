@@ -1,3 +1,13 @@
+ ## (SRS) Document
+ 
+ #### Project Name
+ Projtrack - Project Management Dashboard
+ #### Date 
+04/02/2022
+ #### Version 
+ 1
+ 
+
 ## 1. introduction
 #### Purpose:
 The goal of this project is to create a subscription base application that can be used by Cafe's and customers. The Application should working on Mobile (Android & IOS) With an Administration Dashboard that should be a Web Application.  The Application will use the Stripe API for the subscription intergration. We will also use QR codes for transactioning Coffee from the Customers phone
@@ -51,7 +61,8 @@ The application website Frontend will be written in React as it has lots of supp
 ## External Interface Requirements
 
 #### User Interfaces
-# Mobile Application
+##### Mobile Application
+##### Website Application
 
 #### Hardware Interfaces
 #### Communication Interfaces

@@ -89,14 +89,14 @@
   "active": "75e2bca57a6c06e2",
   "lastOpenFiles": [
     "README.md",
-    "External Interface Requirements/User Interfaces.md",
-    "External Interface Requirements/Hardware Interfaces.md",
-    "General Description/Dependencies.md",
     "Intro.md",
+    "Table of Contents.md",
+    "External Interface Requirements/Hardware Interfaces.md",
+    "External Interface Requirements/User Interfaces.md",
+    "General Description/Dependencies.md",
     "General Description/Operating Enviroment.md",
     "General Description/Product Features.md",
     "General Description/User Class Characteristics.md",
-    "Introduction/Scope.md",
-    "Introduction/Intended Audience.md"
+    "Introduction/Scope.md"
   ]
 }
