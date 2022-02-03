@@ -31,31 +31,10 @@ This Software Design Description (SDD) document provides necessary information a
  | Docker | Deployment| Scalable and Secure|
  
 #### User Class Characteristics
-- SIte Owner
-	- Login Check Overall stats
-	- Update server Realted Configs
-	- Get System Configs and Data
-	- Add Remove Any User 
-	- Set Commission Fee
-- Cafe Owner
-	- Add, Remove and Update Products
-	- Add, Remove and Update Users
-	- Refund & Cancel Users Payment
-- Cafe Worker
-	- View Incoming Orders 
-	- Remove Incoming Orders
-	- Dispatch Incoming orders
-	- View Customer Stats
-	- Add Customer Details and subscribe them
-	- Remove Customer Subscription
-	- Create One off Orders
-- Customer
-	- Sign Up / Subscribe to subscription
-	- Remove Subscription
-	- Upgrade Subscription
-	- Create Order
-	- Remotely Order 
+- Administrator
+- Project Mana
 
+	
 #### Operating Enviroment
 This project is a Web/Mobile application so it will need A server and client server for hosting the Client Website.
 #### Dependencies
