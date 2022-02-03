@@ -8,14 +8,51 @@ The main audience of this document includes the developers of this project Devel
 #### Scope
 This Software Design Description (SDD) document provides necessary information about the project Coffee inc. This document includes design principles of the software with its requirements, functionalities and necessary definitions. These information is aimed to guide any programmer to understand our design and be an assistant in the development phase.
 	
-2. General Description
-	1. [[Product Features]]
-	2. [[User Class Characteristics]]
-	3. [[Operating Enviroment]]
-	4. [[Dependencies]]
-3. External Interface Requirements
-	1. [[User Interfaces]]
-	2. [[Hardware Interfaces]]
-	3. Communication Interfaces
-	4. Software Interfaces
-4. Non Functional Requirements
+## 2. General Description
+
+#### Product Features
+|Product/Service       |Feature            |Benefit         |
+|----------------------|-------------------|----------------|
+|Stipe Intergration    |Payment Prosessing | Secure Payments|
+|React                 |UI framework   | Opensource & Secure|
+|React Native  | Mobile UI UX framework     | Cross platform|
+ | Docker | Deployment| Scalable and Secure|
+ 
+#### User Class Characteristics
+- SIte Owner
+	- Login Check Overall stats
+	- Update server Realted Configs
+	- Get System Configs and Data
+	- Add Remove Any User 
+	- Set Commission Fee
+- Cafe Owner
+	- Add, Remove and Update Products
+	- Add, Remove and Update Users
+	- Refund & Cancel Users Payment
+- Cafe Worker
+	- View Incoming Orders 
+	- Remove Incoming Orders
+	- Dispatch Incoming orders
+	- View Customer Stats
+	- Add Customer Details and subscribe them
+	- Remove Customer Subscription
+	- Create One off Orders
+- Customer
+	- Sign Up / Subscribe to subscription
+	- Remove Subscription
+	- Upgrade Subscription
+	- Create Order
+	- Remotely Order 
+
+#### Operating Enviroment
+This project is a Web/Mobile application so it will need A server and client server for hosting the Client Website.
+#### Dependencies
+The application website Frontend will be written in React as it has lots of support and is quite a flexable frontend framework. The Mobile apps will be written in React native as we are using react for the frontend and should be able to use the Components we made in react in react native without to much hastle. The backend will be written in Golang as it is a highly scalable language and lastly the database we will use will be Postgress.
+## External Interface Requirements
+
+#### User Interfaces
+# Mobile Application
+
+#### Hardware Interfaces
+#### Communication Interfaces
+#### Software Interfaces
