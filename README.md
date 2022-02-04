@@ -38,14 +38,18 @@ This Software Design Description (SDD) document provides necessary information a
 		- Will have the Ability to Run Migrations and Backups
 		- Will be able to set up Cron jobs to run task's a certian times
 - Project Manager
-	- Access to Customer Database (Full Crud)
-	- Access to Setting up Project Hours & Forcasts
-	- Creating and Sending Invoices
-	- 
+	- Access to Customer Database (Full Crud).
+	- Access to Setting up Project Hours & Forcasts.
+	- Creating and Sending Invoices.
+	- Able to create and Send Proposals to Customers,
+	- Creating Projects, Assigning Team Members (Support & Developers)
+	- Creating Tickets and Managing Tickets Via Linear
+		- Stretch Goals: 
+			- Create Staging and Production Enviroments Via Docker, Vercel or someother Deploying tool
+			- Track Commits on a project
+			- View test reports on CI/CD Pipeline for projects that are using TDD, Rely on Unit tests.
 - Devlopers
-	- 
-- Support Staff
-	- 
+	- View Project hours and Forcasts
 - Consumers/Customers 
 	- 
 	
