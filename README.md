@@ -32,10 +32,15 @@ This Software Design Description (SDD) document provides necessary information a
  
 #### User Class Characteristics
 - Administrator
-	- 
--  Buisness Owner - This will be the owner of the Company that use's this product
-	- 
+	- Will Have have Full access to Database. We will have the assumption that this user will be have the technical Ability to be able to manage the system at a Micro Level. This will Include
+		- Full Database Access.
+		- The Ability to Update API Keys for the services that will be used in this project.
+		- Will have the Ability to Run Migrations and Backups
+		- Will be able to set up Cron jobs to run task's a certian times
 - Project Manager
+	- Access to Customer Database (Full Crud)
+	- Access to Setting up Project Hours & Forcasts
+	- Creating and Sending Invoices
 	- 
 - Devlopers
 	- 
