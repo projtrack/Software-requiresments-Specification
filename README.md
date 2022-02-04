@@ -1,4 +1,4 @@
- ## (SRS) Document
+ ## Projtrack - Software Pipeline Dashboard -(SRS) Document
  
  #### Project Name
  Projtrack - Project Management Pipeline Dashboard
@@ -32,8 +32,17 @@ This Software Design Description (SDD) document provides necessary information a
  
 #### User Class Characteristics
 - Administrator
-- Project Mana
-
+	- 
+-  Buisness Owner - This will be the owner of the Company that use's this product
+	- 
+- Project Manager
+	- 
+- Devlopers
+	- 
+- Support Staff
+	- 
+- Consumers/Customers 
+	- 
 	
 #### Operating Enviroment
 This project is a Web/Mobile application so it will need A server and client server for hosting the Client Website.
