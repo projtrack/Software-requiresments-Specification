@@ -39,7 +39,29 @@
 - Project_staging_url
 - Project_sprint_ID
 - Project_Priority
-- Project
+- Project_start_date
+- Project_end_date
+- Completed_at
+- Created_at
+- Updated_at
+- Deleted_at
+
+#### Task
+- Task_ID
+- Task_Leanear_ID
+- Task_description
+- Task_Prority
+- Task_url
+- Task_Hours_used
+- Task_Hours
+- Task_Billable
+- Task_manager
+- Task_Assigned
+- Task_Contact
+- Task_Type
+- Task_notes <-Markdown
+- Task_end_date
+- Task_Begin_date
 - Completed_at
 - Created_at
 - Updated_at
