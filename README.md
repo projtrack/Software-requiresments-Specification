@@ -23,12 +23,6 @@ This Software Design Description (SDD) document provides necessary information a
 ## 2. General Description
 
 #### Product Features
-|Product/Service       |Feature            |Benefit         |
-|----------------------|-------------------|----------------|
-|Stipe Intergration    |Payment Prosessing | Secure Payments|
-|React                 |UI framework   | Opensource & Secure|
-|React Native  | Mobile UI UX framework     | Cross platform|
- | Docker | Deployment| Scalable and Secure|
  
 #### User Class Characteristics
 - Administrator
@@ -70,8 +64,8 @@ This Software Design Description (SDD) document provides necessary information a
 This project is a Web/Mobile application we will be using supabase for the Database and Nextjs for the Serverless functions.This project will have both a Website Application and a mobile application. The mobile Version Will be Intended to be ran on an Ipad.
 
 #### Dependencies
-The Website will be written in Nextjs and hosted with vercel. We've Chosen this service as its scalable and supports serverless functions out the box. It requires no configuration for Hosting. For the Database we've Choosen to use Supabase. We've choosen to use Supabase cause of the benefits of having the Authrisation done at a Database level is more secure than doing it through application level.The mobile application will be written in Flutter I've choosen this language as it Supports Multi platform support. I can 
-The Mobile apps will be written in React native as we are using react for the frontend and should be able to use the Components we made in react in react native without to much hastle. The backend will be written in Golang as it is a highly scalable language and lastly the database we will use will be Postgress.
+The Website will be written in Nextjs and hosted with vercel. We've Chosen this service as its scalable and supports serverless functions out the box. It requires no configuration for Hosting. For the Database we've Choosen to use Supabase. We've choosen to use Supabase cause of the benefits of having the Authrisation done at a Database level is more secure than doing it through application level.The mobile application will be written in Flutter I've choosen this language as it Supports Multi platform support. I can also make native Mac and Windows applications with it.
+.
 ## External Interface Requirements
 
 #### User Interfaces
