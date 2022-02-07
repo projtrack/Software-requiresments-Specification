@@ -66,3 +66,11 @@
 - Created_at
 - Updated_at
 - Deleted_at
+
+#### Employee
+- ID
+- Firstname
+- Lastname
+- Email
+- Mobile
+- 
