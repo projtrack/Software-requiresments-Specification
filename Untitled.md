@@ -1,11 +1,6 @@
 name: String
 number: Float!
-
-"""
-
 The overall progress of the cycle. This is the (completed estimate points + 0.25 * in progress estimate points) / total estimate points.
-
-"""
 
 progress: Float!
 
