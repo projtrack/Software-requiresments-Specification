@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Schema.md",
+            "file": "Untitled.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Schema.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "75e2bca57a6c06e2",
   "lastOpenFiles": [
+    "Untitled.md",
     "Schema.md",
     "README.md",
     "Intro.md",
@@ -96,7 +97,6 @@
     "External Interface Requirements/User Interfaces.md",
     "General Description/Dependencies.md",
     "General Description/Operating Enviroment.md",
-    "General Description/Product Features.md",
-    "General Description/User Class Characteristics.md"
+    "General Description/Product Features.md"
   ]
 }

@@ -1,7 +1,3 @@
-#### Profile
-- ID
-- Name
-	
 #### Address
 - Phone Number:
 - Mobile Number:
@@ -73,4 +69,11 @@
 - Lastname
 - Email
 - Mobile
-- 
+- Work
+- Address
+- Type
+- Roles
+- Image URL
+- Skills
+
+#### issues
