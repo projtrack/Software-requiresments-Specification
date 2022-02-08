@@ -1,8 +1,8 @@
-name: String
-number: Float!
-The overall progress of the cycle. This is the (completed estimate points + 0.25 * in progress estimate points) / total estimate points.
-
-progress: Float!
+Task_id : String
+Task_name : String
+Task_number: Float
+Task_progress: Float!
+	The overall progress of the cycle. This is the (completed estimate points + 0.25 * in progress estimate points) / total estimate points
 
 """
 
