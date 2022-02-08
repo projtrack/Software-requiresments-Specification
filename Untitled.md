@@ -12,3 +12,17 @@ Body:
 		text: String
 	}
 	}
+	Author: Object {
+		Update_user: object
+		{
+			Account_id : Int
+			Account_name : String
+			active : Boolean
+		}
+	}
+	Created : Datetime
+	Updated: Datetime
+visibility": {
+"type": "role",
+"value": "Administrators"
+}
