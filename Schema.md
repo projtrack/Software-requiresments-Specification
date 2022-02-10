@@ -3,7 +3,6 @@
 - Mobile Number:
 - Email Address:
 - Company ID:
-- STRIPE_ID:
 - Website:
 - Created_at
 - Updated_at
@@ -16,6 +15,7 @@
 - Phone Number:
 - Mobile Number:
 - Email Address:
+- STRIPE_ID:
 -  Created_at
 - Updated_at
 - Deleted_at
