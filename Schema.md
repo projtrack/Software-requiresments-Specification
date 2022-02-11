@@ -1,9 +1,8 @@
 #### Address
-- Phone Number:
-- Mobile Number:
-- Email Address:
-- Company ID:
-- Website:
+- street_1
+- street_2
+- state
+- postcode
 - Created_at
 - Updated_at
 - Deleted_at
@@ -57,7 +56,7 @@ Project_scope_description
 Project_scope_hours
 Project_scope_ballpark_quote
 Project_scope_tasks
-Project_scope_budget_hours
+Project_scope_
 Project_scope_budget_hours_used
 
 #### Project_types
@@ -72,8 +71,12 @@ Project_type_authorization
 #### Project_task
 ID
 Project_type
-Project_scope
 Project_task_name
 Project_task_description
+Project_Linear_ticket
+Project_task_approved
 Project_task_completed
-Project_task_
+Project_task_hours_budget_hours
+Project_task_budget_hours_used
+Project_task_start_date
+Project_task_end_date
