@@ -11,7 +11,7 @@
 #### Company
 - ID:
 - Name:
-- Address:
+- address_id:
 - Phone Number:
 - Mobile Number:
 - Email Address:
@@ -42,27 +42,6 @@
 - Updated_at
 - Deleted_at
 
-#### Task
-- Task_ID
-- Task_Leanear_ID
-- Task_description
-- Task_Prority
-- Task_url
-- Task_Hours_used
-- Task_Hours
-- Task_Billable
-- Task_manager
-- Task_Assigned
-- Task_Contact
-- Task_Type
-- Task_notes <-Markdown
-- Task_end_date
-- Task_Begin_date
-- Completed_at
-- Created_at
-- Updated_at
-- Deleted_at
-
 #### Employee
 - ID
 - Firstname
@@ -76,4 +55,11 @@
 - Image URL
 - Skills
 
-#### issues
+#### Project Scope
+#### Project_types
+id
+price_per_hour_pretax
+price_per_hour_tax
+price_per_hour_surcharge
+Project_type_name
+Project_type_decscription
