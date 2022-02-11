@@ -56,10 +56,18 @@
 - Skills
 
 #### Project Scope
+id
+Project_scope_name
+Project_scope_description
+Project_scope_hours
+Project_scope_ballpark_quote
+Project_scope_type
+Project_scope_
 #### Project_types
 id
-price_per_hour_pretax
-price_per_hour_tax
-price_per_hour_surcharge
+Price_per_hour_pretax
+Price_per_hour_tax
+Price_per_hour_surcharge
 Project_type_name
 Project_type_decscription
+Project_type_authorization
