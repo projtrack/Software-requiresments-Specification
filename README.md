@@ -9,13 +9,10 @@
 
 ## 1. introduction
 #### Purpose:
-The purpose of this document is to build project managment software with the ease of having popular tools intrergrated into one centeral place. This Document is intended for Stake holders and Devlopers
+The purpose of this document is to build project managment software with the ease of having popular tools intrergrated into one centeral place. This Document is intended for Stake holders and Devlopers to help them with Feature and Tool devlopment
 
 #### Document Conventions
 This section will Explain and termanolgy that is used in this document
-
-#### Intended Audience
-The main audience of this document includes the developers of this project Developers are supposed to use this document in the development phase to the structure and design of each component
 
 #### Scope
 This Software Design Description (SDD) document provides necessary information about Projtrack - Project Pipeline dashboard . This document includes design principles of the software with its requirements, functionalities and necessary definitions. The information is aimed to guide any programmer to understand our design and be an assistant in the development phase.
@@ -23,6 +20,7 @@ This Software Design Description (SDD) document provides necessary information a
 ## 2. General Description
 
 #### Product Features
+- The Ability to login to the application with their github that is linked to their company. It will allow the users to be able to add projects, Scope Projects , Create Project Khanban board
  
 #### User Class Characteristics
 - Administrator
