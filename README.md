@@ -20,7 +20,7 @@ This Software Design Description (SDD) document provides necessary information a
 ## 2. General Description
 
 #### Product Features
-- The Ability to login to the application with their github that is linked to their company. It will allow the users to be able to add projects, Scope Projects , Create Project Khanban board
+- The Ability to login to the application with their github that is linked to their company. It will allow the users to be able to add projects, Scope Projects , Create Project Khanban board. This dashboard will be used from teams that follow agile devlopment. The dahsboard will allow for the billing of clients through stripe intergrations. This will allow for Time Based Billing and tracking the projects overall proformance for once of billing. The dashboard should Allow 
  
 #### User Class Characteristics
 - Administrator
