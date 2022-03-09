@@ -13,7 +13,7 @@ getent group evaluating
 
 groups
 
-chage -l 
+chage -l username
 
 ## Hostname 
 hostnamectl 
